@@ -16,3 +16,13 @@ This project is a machine learning web application built using **Streamlit** tha
 
 ## 📁 Project Structure
 
+employee-salary-predictor/
+│
+├── app.py # Streamlit app code
+├── model_building.py # Model training and preprocessing script
+├── adult.csv # Dataset
+├── adult.names # Dataset feature info
+├── salary_model.pkl # Trained ML model
+├── encoders.pkl # Saved encoders
+├── requirements.txt # Python dependencies
+└── README.md # This file
